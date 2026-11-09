@@ -1,0 +1,13 @@
+*.exe
+/main
+glab
+notes
+incase
+# local secrets and build output
+.env
+.env.*
+!.env.example
+!.env.template
+tmp/
+*.log
+/main
